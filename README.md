@@ -1,4 +1,4 @@
-# first-rest-service
+# Rest-Service-API
 Backend app using spring boot 
 
 1) Clone this project to your local
